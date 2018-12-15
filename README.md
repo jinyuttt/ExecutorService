@@ -10,6 +10,6 @@
                         int tsp = random.Next(1000, 5000);
                         Thread.Sleep(tsp);
                       // Console.WriteLine(tsp/1000);
-                    });
+                    }，1000);//参数即是任务超时时间
                     Console.WriteLine(resut.ErrorMsg);
 ```
