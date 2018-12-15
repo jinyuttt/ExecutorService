@@ -1,0 +1,9 @@
+E:\Study\vs\ExecutorService\ExecutorTask\obj\Debug\netstandard2.0\ExecutorTask.csprojAssemblyReference.cache
+E:\Study\vs\ExecutorService\ExecutorTask\obj\Debug\netstandard2.0\ExecutorTask.csproj.CoreCompileInputs.cache
+E:\Study\vs\ExecutorService\ExecutorTask\obj\Debug\netstandard2.0\ExecutorTask.AssemblyInfoInputs.cache
+E:\Study\vs\ExecutorService\ExecutorTask\obj\Debug\netstandard2.0\ExecutorTask.AssemblyInfo.cs
+E:\Study\vs\ExecutorService\ExecutorTask\bin\Debug\netstandard2.0\ExecutorTask.deps.json
+E:\Study\vs\ExecutorService\ExecutorTask\bin\Debug\netstandard2.0\ExecutorTask.dll
+E:\Study\vs\ExecutorService\ExecutorTask\bin\Debug\netstandard2.0\ExecutorTask.pdb
+E:\Study\vs\ExecutorService\ExecutorTask\obj\Debug\netstandard2.0\ExecutorTask.dll
+E:\Study\vs\ExecutorService\ExecutorTask\obj\Debug\netstandard2.0\ExecutorTask.pdb
