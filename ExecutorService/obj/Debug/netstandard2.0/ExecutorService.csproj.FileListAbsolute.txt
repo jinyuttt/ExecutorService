@@ -10,3 +10,11 @@ E:\Study\vs\ExecutorService\ExecutorService\obj\Debug\netstandard2.0\ExecutorSer
 E:\Study\vs\ExecutorService\ExecutorService\obj\Debug\netstandard2.0\ExecutorService.AssemblyInfo.cs
 E:\Study\vs\ExecutorService\ExecutorService\obj\Debug\netstandard2.0\ExecutorService.dll
 E:\Study\vs\ExecutorService\ExecutorService\obj\Debug\netstandard2.0\ExecutorService.pdb
+E:\Study\vs\ExecutorService\ExecutorService\ExecutorService\bin\Debug\netstandard2.0\ExecutorService.deps.json
+E:\Study\vs\ExecutorService\ExecutorService\ExecutorService\bin\Debug\netstandard2.0\ExecutorService.dll
+E:\Study\vs\ExecutorService\ExecutorService\ExecutorService\bin\Debug\netstandard2.0\ExecutorService.pdb
+E:\Study\vs\ExecutorService\ExecutorService\ExecutorService\obj\Debug\netstandard2.0\ExecutorService.csproj.CoreCompileInputs.cache
+E:\Study\vs\ExecutorService\ExecutorService\ExecutorService\obj\Debug\netstandard2.0\ExecutorService.AssemblyInfoInputs.cache
+E:\Study\vs\ExecutorService\ExecutorService\ExecutorService\obj\Debug\netstandard2.0\ExecutorService.AssemblyInfo.cs
+E:\Study\vs\ExecutorService\ExecutorService\ExecutorService\obj\Debug\netstandard2.0\ExecutorService.dll
+E:\Study\vs\ExecutorService\ExecutorService\ExecutorService\obj\Debug\netstandard2.0\ExecutorService.pdb

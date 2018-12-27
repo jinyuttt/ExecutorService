@@ -30,7 +30,7 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "yQUDxmtMid/cOKKmRw+WyrIssWbW+sRqLVJHLDHXwGsLiZmcOsXjOAFt8+YSzC9ea4WOuUAP46Z+yqOes+5ubA==",
+      "sha512": "NGlWhlL3SngXtUEaMJcw2f5tNPiwxlnthQsey93A0gKqt55VsJtMaUf6WloJUs7wd2n1Xr6Ucjws/c3zB9wiFA==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Study\\vs\\ExecutorService\\ExecutorService\\ExecutorService.csproj",
+      "projectUniqueName": "E:\\Study\\vs\\ExecutorService\\ExecutorService\\ExecutorService\\ExecutorService.csproj",
       "projectName": "ExecutorService",
-      "projectPath": "E:\\Study\\vs\\ExecutorService\\ExecutorService\\ExecutorService.csproj",
+      "projectPath": "E:\\Study\\vs\\ExecutorService\\ExecutorService\\ExecutorService\\ExecutorService.csproj",
       "packagesPath": "C:\\Users\\jinyu\\.nuget\\packages\\",
-      "outputPath": "E:\\Study\\vs\\ExecutorService\\ExecutorService\\obj\\",
+      "outputPath": "E:\\Study\\vs\\ExecutorService\\ExecutorService\\ExecutorService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
